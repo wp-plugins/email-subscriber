@@ -14,7 +14,7 @@ Amazing plugin to get visitors email address.
 Simple way to get visitors email address as email subscriber. use via shortcode to any page with six different themes for subscriber box.
 
 
-<h5>Plugin Features</h5>
+<strong>Plugin Features</strong><br />
 # Use via shortcode.<br />
 # Unlimited subscribe popup box via shortcode.<br />
 # Six different theme for popup box.<br />
