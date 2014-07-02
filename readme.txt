@@ -16,12 +16,12 @@ Simple way to get visitors email address as email subscriber. use via shortcode 
 == Installation ==
 
 1. Install as regular WordPress plugin.
-2. Go your Pluings setting via WordPress Dashboard and activate it.
+2. Go your Plugins setting via WordPress Dashboard and activate it.
 3. After successfully activate you will see a menu <strong>ES Campaign</strong>
 
 <h3>Generate a shortcode first.</h3>
 
-To display email subsriber popup box on your website you need to generate a shortcode first.
+To display email subscriber popup box on your website you need to generate a shortcode first.
 
 First click "Create ES Campaign"  
 you will see options for shortcode generator. publish the post(Email Subscriber Options) when settings done.
@@ -29,11 +29,22 @@ and copy the shortcode from "Shortcode" box and use this to page or post content
 
 shortcode sample:
 `[kento_email_subscriber_campaign id=1488]`<br />
-
+`&lt;?php echo do_shortcode("[kento_email_subscriber_campaign id=1488]"); ?&gt;`
 
 
 if you want to display on every page simply paste php code on your theme header.php file. 
 
+
+<h5>Plugin Features</h5>
+# Use via shortcode.
+# Unlimited subscribe popup box via shortcode.
+# Six different theme for popup box.
+# paginate subscriber list.
+# Ajax subscriber form.
+# Validate email address
+# Delete unwanted email address from list.
+# Delay time to display popup box.
+# Test mode or display popup for every refresh.
 
 
 == Screenshots ==
