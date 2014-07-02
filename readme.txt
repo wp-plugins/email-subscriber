@@ -1,8 +1,7 @@
-=== Kento Email Subscribers ===
+=== Email Subscriber ===
 Contributors: kentothemes
 Donate link: 
 Tags:  Email Subscription, subscription, email subscribe, email list , Mail Subscribe List , email list, Building a mailing list, Simple Subscribe, mailchimp
-
 Requires at least: 3.8
 Tested up to: 3.9
 Stable tag: 1.0
@@ -29,8 +28,8 @@ you will see options for shortcode generator. publish the post(Email Subscriber 
 and copy the shortcode from "Shortcode" box and use this to page or post content.
 
 shortcode sample:
-`[kento_email_subscriber_campaign id="1488"]`<br />
-`&lt;?php echo do_shortcode("[kento_email_subscriber_campaign id=1488]"); ?&gt;`
+`[kento_email_subscriber_campaign id=1488]`<br />
+
 
 
 if you want to display on every page simply paste php code on your theme header.php file. 
