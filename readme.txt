@@ -13,6 +13,24 @@ Amazing plugin to get visitors email address.
 == Description ==
 Simple way to get visitors email address as email subscriber. use via shortcode to any page with six different themes for subscriber box.
 
+
+<h5>Plugin Features</h5>
+# Use via shortcode.<br />
+# Unlimited subscribe popup box via shortcode.<br />
+# Six different theme for popup box.<br />
+# paginate subscriber list.<br />
+# Ajax subscriber form.<br />
+# Validate email address<br />
+# Delete unwanted email address from list.<br />
+# Delay time to display popup box.<br />
+# Test mode or display popup for every refresh.<br />
+
+
+
+
+
+
+
 == Installation ==
 
 1. Install as regular WordPress plugin.
@@ -35,16 +53,7 @@ shortcode sample:
 if you want to display on every page simply paste php code on your theme header.php file. 
 
 
-<h5>Plugin Features</h5>
-# Use via shortcode.
-# Unlimited subscribe popup box via shortcode.
-# Six different theme for popup box.
-# paginate subscriber list.
-# Ajax subscriber form.
-# Validate email address
-# Delete unwanted email address from list.
-# Delay time to display popup box.
-# Test mode or display popup for every refresh.
+
 
 
 == Screenshots ==
